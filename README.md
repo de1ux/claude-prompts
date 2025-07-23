@@ -1,1 +1,1 @@
-# claude-prompts
+# prompts
